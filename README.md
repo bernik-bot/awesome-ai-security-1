@@ -469,6 +469,7 @@ npx skills add https://github.com/gmh5225/awesome-ai-security --skill ai-powered
 - https://github.com/regenrek/deepwiki-mcp [DeepWiki MCP]
 - https://github.com/upstash/context7 [Documentation MCP]
 - https://github.com/colbymchenry/codegraph [CodeGraph - pre-indexed local code knowledge graph MCP for Claude Code/Codex/Cursor/OpenCode/Hermes: symbol/call graphs, fewer tokens & tool calls; MIT]
+- https://github.com/bernik-bot/ichi-mcp [ICHI MCP Server — real-time internet cyber health index (five threat bands: NORMAL→CRITICAL) and critical vulnerability advisory feed for AI security workflows; get_current_index, get_recent_alerts, get_source_health tools; outside-in directional signal, not an org-level risk score; no API key; MIT]
 
 ### AI Sandbox & Isolation
 - https://github.com/NVIDIA/OpenShell [OpenShell - safe private runtime for autonomous agents: Docker/K3s gateway, YAML policies (filesystem, L7 network egress, process, inference routing), credential providers without FS leakage; Claude, OpenCode, Codex, Copilot; Apache-2.0, alpha]
